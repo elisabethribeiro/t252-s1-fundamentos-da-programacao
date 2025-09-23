@@ -1,6 +1,4 @@
-const Notificacao = {
-  id: 1,
-  titulo: "",
-  tipo: "",
-  lida: true,
-}
+// pra rodar usar npx ts-node nome-do-arquivo.tsc
+
+const objetoExemploDaAula = {}
+
