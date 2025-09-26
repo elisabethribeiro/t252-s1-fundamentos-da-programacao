@@ -56,6 +56,13 @@ const respostas: RespostaPesquisa[] = [
 
 //Crie uma função buscarUsuario que receba o array e um nome, e retorne a nota e comentário do usuário ou "Usuário não encontrado".
 
-function buscarUsuario(respostas: RespostaPesquisa[], usuario: string): void {
+/*function buscarUsuario(respostas: RespostaPesquisa[], usuario: string): string {
+const resposta0 = respostas[0];
+const resposta1 = respostas[1];
+const resposta2 = respostas[2];
+const resposta3 = respostas[3];
+const resposta4 = respostas[4];
 
-}
+if (resposta0 && !resposta0.duplicado && resposta0.usuario === nomeBuscado)
+return usuario: ${resposta0?.usuario} | Nota: ${resposta0?.notaSatisfacao}
+}*/
